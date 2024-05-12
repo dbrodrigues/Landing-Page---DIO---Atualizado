@@ -122,11 +122,7 @@ img{
 #transform-world{
     height: 560px;
     background-size: cover;
-<<<<<<< HEAD:CSS/styles.css
     background-image: url(/images/woman-code.png);
-=======
-    background-image: url(../assets/images/woman-code.png);
->>>>>>> 2f41a17ab6ff60294a88956a35ed13c455b9c06c:assets/CSS/styles.css
     background-attachment: fixed;
     background-position: center;
     border-top: 1px solid #1572B7;
